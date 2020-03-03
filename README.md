@@ -5,7 +5,7 @@ SwiftUI is a declarative approach to create user interfaces for any Apple platfo
 
 This blog is about creating SwiftUI interfaces.
 
-This repo has 16 examples, for complete explanation refer to this [Toptal Blog](https://www.toptal.com/blog)
+This repo has 16 examples, for complete explanation refer to this [Medium Blog](https://medium.com/@mansha99/swift-ui-fundamentals-634df221295e)
 
 1. [Hello World](https://github.com/mansha99/Swift-UI-Essentials/blob/master/SwiftUILayouts/Ex01HelloWorld.swift )
 
